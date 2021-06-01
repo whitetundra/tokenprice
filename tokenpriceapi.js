@@ -29,5 +29,3 @@ let pancakeSwapContract = "0x10ED43C718714eb63d5aA57B78B54704E256024E".toLowerCa
 
     console.log('VALUE IN BNB : ' + (tokenValueInBnb).toFixed(20) + ' | Just convert it to USD ')
 })();
-
-//https://min-api.cryptocompare.com/data/price?fsym=BNB&tsyms=USD
